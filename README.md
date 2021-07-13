@@ -1,4 +1,5 @@
 # Console_game-avoid_object  
+The consolegame of avoid falling object   
 ## 1. 개발 동기  
 C++를 학습한 후 객체지향을 적용해 프로그래밍을 하기위해 시작하였다.  
 |OS|사용 언어|사용 IDE|  
